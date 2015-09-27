@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Facebook</string>
+    <string name="facebook_app_id">867204920042135</string><!-- App Id que nos genero facebook,P.D. Es necesario que lo cambies pues eliminare esa app-->
 </resources>
