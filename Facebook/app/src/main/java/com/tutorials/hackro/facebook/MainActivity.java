@@ -71,15 +71,7 @@ public class MainActivity extends Activity {
                                     String name = object.getString("name");//Obtenemos en nombre
                                     String email = object.getString("email");//Obtenemos el mail
                                     Intent i = new Intent(getApplicationContext(), Main2Activity.class);//Enviamos al usuario a otro activity
-                                    //si solo quieres mostralos en consola
-                                    Log.e("name: ", name);
-                                    Log.e("email: ",email);
-                                    Log.e("foto: ",imgUrl.toString());
-                                    //Si quieres mandar esos datos a otro activity,sera de esta manera
-                                    i.putExtra("foto", imgUrl.toString());
-                                    i.putExtra("nombre", name);
-                                    i.putExtra("correo", email);
-                                    //Finalizamos iniciando la nueva actividad(Activity)
+
                                     startActivity(i);
                                 } catch (JSONException e) {
                                     Toast.makeText(MainActivity.this, "Error", Toast.LENGTH_SHORT).show();
