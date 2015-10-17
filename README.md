@@ -10,7 +10,7 @@ Esta es la lista de los ejemplos que contiene actualmente este repositorio:
 * **Volley**---->[Request Post con uso de parametros]
 * **Splash Time** 
 * **SQLITE**----> [CRUD]
-* **Picasso**---->[Imagenes mediante URL]
+* **Picasso**---->Imagenes mediante URL
 * **Facebook**---->[Autenticacion y acceso a usuario,email,genero e imagen de perfil]
 *  **Envio Mails**---->[Envio de correos desde android mediante un PHP]
 * **RecyclerView & CardView**---->[Implementacion de RecyclerView con CardView]
@@ -18,7 +18,7 @@ Esta es la lista de los ejemplos que contiene actualmente este repositorio:
 
 Algunos de los ejemplos,es necesario que tengas conocimiento mínimo de como se realizan.
 
-Por ejemplo en el caso de Facebook,deberán dar de alta la app en [Facebook Developers](developers.facebook.com) y si no lo hacen,aunque el código este bien,no funcionara.
+Por ejemplo en el caso de Facebook,deberán dar de alta la app en [Facebook Developers](https://developers.facebook.com/) y si no lo hacen,aunque el código este bien,no funcionara.
 
 
 Todos los ejemplos estar verificados y funcionan sin problema alguno.
