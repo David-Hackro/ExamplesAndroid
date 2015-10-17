@@ -8,7 +8,7 @@ Están realizados en su mayoría en una API 19 [KitKat] y otros en la API 21[Lol
 
 Esta es la lista de los ejemplos que contiene actualmente este repositorio:
 * **Volley**---->[Request Post con uso de parametros]
-* **Splash Time **
+* **Splash Time** 
 * **SQLITE**----> [CRUD]
 * **Picasso**---->Imagenes mediante URL
 * **Facebook**---->[Autenticacion y acceso a usuario,email,genero e imagen de perfil]
