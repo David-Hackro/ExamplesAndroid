@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewAndCardView</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="twitter">Twitter</string>
+    <string name="textoEjemplo">Texto Ejemplo</string>
+
+
+</resources>
