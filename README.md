@@ -23,7 +23,7 @@ Por ejemplo en el caso de Facebook,deberán dar de alta la app en [Facebook Deve
 
 Todos los ejemplos estar verificados y funcionan sin problema alguno.
 
-### Sigueme en Twitter **@DavidHackro**
+### Sigueme en Twitter **[@DavidHackro](https://twitter.com/DavidHackro)**
 Comparte tu conocimiento.
 
 Saludos!!
