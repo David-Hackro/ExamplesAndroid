@@ -10,7 +10,7 @@ Esta es la lista de los ejemplos que contiene actualmente este repositorio:
 * **Volley**---->[Request Post con uso de parametros]
 * **Splash Time** 
 * **SQLITE**----> [CRUD]
-* **Picasso**---->Imagenes mediante URL
+* **Picasso**---->[Imagenes mediante URL]
 * **Facebook**---->[Autenticacion y acceso a usuario,email,genero e imagen de perfil]
 *  **Envio Mails**---->[Envio de correos desde android mediante un PHP]
 * **RecyclerView & CardView**---->[Implementacion de RecyclerView con CardView]
