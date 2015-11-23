@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ImageView imageView = (ImageView) findViewById(R.id.qrCode);
-        Bitmap bitmap = encodeToQrCode("URL", 100, 100);
+        Bitmap bitmap = encodeToQrCode("Hola Mundo :3", 100, 100);
         imageView.setImageBitmap(bitmap);
     }
 
