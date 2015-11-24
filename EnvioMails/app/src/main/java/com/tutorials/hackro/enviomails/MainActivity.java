@@ -10,10 +10,12 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    EditText to;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        to = findViewById(R.id.editText);
     }
 
 
@@ -33,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-}
+
 
 
     ///Obtener cuenta de g mail ligada al dispositivo
