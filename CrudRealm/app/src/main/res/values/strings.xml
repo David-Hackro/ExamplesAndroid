@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrudRealm</string>
+    <string name="Insert">Insert</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Select">Select</string>
+
+</resources>
