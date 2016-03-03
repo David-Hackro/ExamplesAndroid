@@ -3,7 +3,7 @@ package com.example.david.crudrealm.Controls;
 import android.content.Context;
 
 import com.example.david.crudrealm.Entidades.Post;
-import com.example.david.crudrealm.Interfaces.IRepositoryPost;
+import com.example.david.crudrealm.IControls.IRepositoryPost;
 
 import io.realm.Realm;
 import io.realm.RealmConfiguration;

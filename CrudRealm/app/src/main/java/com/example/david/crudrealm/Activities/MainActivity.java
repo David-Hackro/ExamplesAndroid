@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import com.example.david.crudrealm.Entidades.Post;
 import com.example.david.crudrealm.R;
-import com.example.david.crudrealm.RepositoryPosts;
+import com.example.david.crudrealm.Controls.RepositoryPosts;
 
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
