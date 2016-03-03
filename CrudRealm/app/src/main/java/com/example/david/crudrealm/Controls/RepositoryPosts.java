@@ -39,7 +39,8 @@ public class RepositoryPosts implements IRepositoryPost {
     @Override
     public void deletePostId(int IdPost) {
         realm.beginTransaction();
-        Post postTemp = realm.where(Post.class).equalTo("userId", IdPost).findFirst();
+        Post postTemp = realm.where(Post.class).equalTo("userId", IdPost).or().equalTo("userId", IdPost).findFirst();
+        //Post postTemp = realm.where(Post.class).equalTo("userId", IdPost).or().equalTo("title", title).findFirst(); //whith 2 fields
         postTemp.removeFromRealm();
         realm.commitTransaction();
     }
