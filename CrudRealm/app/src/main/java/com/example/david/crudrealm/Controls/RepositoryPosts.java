@@ -1,8 +1,10 @@
-package com.example.david.crudrealm;
+package com.example.david.crudrealm.Controls;
 
 import android.content.Context;
 
 import com.example.david.crudrealm.Entidades.Post;
+import com.example.david.crudrealm.Interfaces.IRepositoryPost;
+
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
 import io.realm.RealmResults;
@@ -10,7 +12,7 @@ import io.realm.RealmResults;
 /**
  * Created by david on 1/03/16.
  */
-public class RepositoryPosts implements IRepositoryPost{
+public class RepositoryPosts implements IRepositoryPost {
     private Realm realm;
     private RealmConfiguration realmConfig;
     private Post post;

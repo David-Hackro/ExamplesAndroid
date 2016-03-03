@@ -1,4 +1,4 @@
-package com.example.david.crudrealm;
+package com.example.david.crudrealm.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,8 +8,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.david.crudrealm.Entidades.Post;
-
-import java.util.List;
+import com.example.david.crudrealm.R;
+import com.example.david.crudrealm.RepositoryPosts;
 
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
