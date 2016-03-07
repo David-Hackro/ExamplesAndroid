@@ -24,10 +24,14 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptor;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.maps.android.clustering.ClusterManager;
+import com.google.maps.android.clustering.view.DefaultClusterRenderer;
 
 import java.util.List;
 
@@ -260,6 +264,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         mGoogleMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
         if (mGoogleMap != null) {
             mClusterManager = new ClusterManager<MyItem>(this, mGoogleMap);
+            mClusterManager.setRenderer(new OwnIconRendered(MainActivity.this, mGoogleMap, mClusterManager));
+
             mGoogleMap.setOnCameraChangeListener(mClusterManager);
 
 
@@ -567,4 +573,21 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
             mGoogleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(19.0337592,-98.1869488), 1));
         }
-    }}
+    }
+static class OwnIconRendered extends DefaultClusterRenderer<MyItem> {
+
+    public OwnIconRendered(Context context, GoogleMap map,
+                           ClusterManager<MyItem> clusterManager) {
+        super(context, map, clusterManager);
+    }
+
+    @Override
+    protected void onBeforeClusterItemRendered(MyItem item, MarkerOptions markerOptions) {
+        BitmapDescriptor icon = BitmapDescriptorFactory.fromResource(R.mipmap.davidhackro);
+        markerOptions.icon(icon);
+        markerOptions.snippet("@DavidHackro");
+        markerOptions.title("Sigueme en Twitter");
+        super.onBeforeClusterItemRendered(item, markerOptions);
+    }
+}
+}
