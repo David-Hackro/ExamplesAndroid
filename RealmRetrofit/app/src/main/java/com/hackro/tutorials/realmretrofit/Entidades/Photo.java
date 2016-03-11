@@ -8,9 +8,8 @@ import io.realm.annotations.Required;
  */
 public class Photo extends RealmObject {
 
-    @Required
     private int albumId;
-    @Required
+
     private int id;
     @Required
     private String title;
