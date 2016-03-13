@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Google Maps/GoogleMaps II/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
