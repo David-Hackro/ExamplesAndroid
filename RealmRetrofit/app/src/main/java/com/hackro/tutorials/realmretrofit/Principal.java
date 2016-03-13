@@ -27,6 +27,8 @@ public class Principal extends AppCompatActivity {
         setContentView(R.layout.activity_principal);
 
         new MyAsyncClass().execute();
+       // servicios = new Servicios();
+        servicios = new Servicios();
 
     }
 
@@ -36,8 +38,7 @@ public class Principal extends AppCompatActivity {
         protected void onPreExecute() {
             super.onPreExecute();
 
-            RealmConfiguration r = new RealmConfiguration.Builder(Principal.this).build();
-            servicios = new Servicios(r);
+           // RealmConfiguration r = new RealmConfiguration.Builder(Principal.this).build();
 
             progress = ProgressDialog.show(Principal.this, null, null, true);
             progress.setContentView(R.layout.elemento_progress_dialog);
@@ -47,7 +48,8 @@ public class Principal extends AppCompatActivity {
 
         @Override
         protected Void doInBackground(Void... params) {
-            Log.e("","");
+RealmConfiguration realmConfiguration = new RealmConfiguration.Builder(Principal.this).build();
+            servicios.setRealmConfiguration(realmConfiguration);
             servicios.requestAllPhotos();
             return null;
         }

@@ -16,11 +16,4 @@
         android:text="Hello World!" />
 
 
-    <Button
-        android:layout_below="@+id/dos"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Mostrar Registros"
-        android:onClick="MostrarRegistros"
-        />
 </RelativeLayout>

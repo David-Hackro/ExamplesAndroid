@@ -19,12 +19,10 @@ public class RepositoryPhotos  implements IRepositoryPhotos{
 
     private Realm realm;
     private Photo photo;
-    private RealmConfiguration realmConfig;
 
 
     public RepositoryPhotos(RealmConfiguration r) {
-        realmConfig = r;
-        realm = Realm.getInstance(realmConfig);
+        realm = Realm.getInstance(r);
 
     }
 
