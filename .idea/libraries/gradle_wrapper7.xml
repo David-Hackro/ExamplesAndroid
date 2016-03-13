@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gradle-wrapper7">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/SQLITE/gradle/wrapper/gradle-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
