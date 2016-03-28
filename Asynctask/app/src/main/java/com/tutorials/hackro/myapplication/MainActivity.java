@@ -50,10 +50,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(Void aVoid) {
             super.onPostExecute(aVoid);
-            //Toast.makeText(MainActivity.this,"Adios",Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this,"Adios",Toast.LENGTH_SHORT).show();
 
 
-            Dialog dialog = new Dialog(MainActivity.this);
 
 
 
