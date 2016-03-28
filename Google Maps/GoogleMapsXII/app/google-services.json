@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_id": "example-android",
+    "project_number": "155777619682",
+    "name": "Example Android"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155777619682:android:9a638b599a936cec",
+        "client_id": "android:com.tutorials.hackro.speedytaxi",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.tutorials.hackro.speedytaxi",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155777619682-je4a97636ht388d7bjrtdl8j7acrpq3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials.hackro.speedytaxi",
+            "certificate_hash": "F5C2B601D3A44631DA23B91CCE86C9B6C6EAEB10"
+          }
+        },
+        {
+          "client_id": "155777619682-389g735c22gmo6766ajb7fiiu3dbn77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-43106213-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155777619682:android:15c8ec8eb8c17268",
+        "client_id": "android:com.tutorials.hackro.googlemapsxii",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.tutorials.hackro.googlemapsxii",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155777619682-389g735c22gmo6766ajb7fiiu3dbn77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
