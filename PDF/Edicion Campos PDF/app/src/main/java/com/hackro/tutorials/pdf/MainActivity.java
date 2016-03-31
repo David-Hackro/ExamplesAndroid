@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         try {
-
+            //El pdf lo he colocado en la carpeta Assets
             InputStream inputStream = this.getAssets().open("DavidHackro.pdf");
             long avail = 0;
             avail = inputStream.available();
