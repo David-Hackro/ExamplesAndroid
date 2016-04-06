@@ -44,7 +44,7 @@ public class RecycleView extends AppCompatActivity {
         final PersonasAdapter ca = new PersonasAdapter(personas);
         recList.setAdapter(ca);
 
-
+// agregamos el listener
         SwipeableRecyclerViewTouchListener swipeTouchListener =
                 new SwipeableRecyclerViewTouchListener(recList,
                         new SwipeableRecyclerViewTouchListener.SwipeListener() {
@@ -59,6 +59,7 @@ public class RecycleView extends AppCompatActivity {
                                 return true;
                             }
 
+                            //Accion al deslizar a la izquierda
                             @Override
                             public void onDismissedBySwipeLeft(RecyclerView recyclerView, int[] reverseSortedPositions) {
                                 for (int position : reverseSortedPositions) {
@@ -68,7 +69,7 @@ public class RecycleView extends AppCompatActivity {
                                 }
                                 ca.notifyDataSetChanged();
                             }
-
+                            //Accion al deslizar a la derecha
                             @Override
                             public void onDismissedBySwipeRight(RecyclerView recyclerView, int[] reverseSortedPositions) {
                                 for (int position : reverseSortedPositions) {
