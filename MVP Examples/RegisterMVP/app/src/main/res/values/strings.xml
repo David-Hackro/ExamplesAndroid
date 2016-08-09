@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegisterMVP</string>
+    <string name="error_user_name">Username Invalid</string>
+    <string name="error_password">Password  Invalid</string>
+    <string name="error_repeat_password">Different passwords</string>
+    <string name="error_invalid_password">The password must contain a character letter and number</string>
+    <string name="error_invalid_email">Email Invalid</string>
+    <string name="register_successful">Register Successful</string>
+    <string name="error_undefined">Error Undefined</string>
+    <string name="error_empty_fields">Empty Fields</string>
+    <string name="username">Username</string>
+    <string name="email">example@domain.com</string>
+    <string name="password">********</string>
+    <string name="repeat_password">Repeat Password</string>
+</resources>

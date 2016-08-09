@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraExampleMVP</string>
+    <string name="number">0</string>
+    <string name="errorNumber">Its necessary a number</string>
+    <string name="errorOperation">Error Undefined </string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicacion">*</string>
+    <string name="divicion">/</string>
+</resources>
