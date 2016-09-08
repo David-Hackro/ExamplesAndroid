@@ -1,11 +1,10 @@
 # Bienvenido a este repositorio! 
 [English Version](https://github.com/David-Hackro/ExamplesAndroid/blob/master/README.md)
 
-Bienvenido a este repositorio,donde encontraras ejemplos utilizando [Android](https://www.android.com/intl/es-419_mx/)
+Bienvenido a este repositorio,donde encontraras ejemplos utilizando 
 
-> minSdkVersion 19
- 
-Listado de ejemplos
+
+[![Sin nombre.png](https://s10.postimg.org/bftldg5y1/Sin_nombre.png)](https://postimg.org/image/3zubrni8l/)
 
 ### INDICE
 
@@ -26,10 +25,11 @@ Topic:
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
 
 * # DATABASE
-    ##### REALM
+    ##### SQLITE
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
+    
     ##### REALM
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
     * [REALM - Markdown parser done right. Fast and easy to extend.](http://goo.gl/o2fGrN)
@@ -47,5 +47,3 @@ Topic:
 > [Android Studio](https://developer.android.com/studio/index.html?hl=es-419)       
 > [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes)    
 > [Librerias extra (GNU/LINUX)](https://developer.android.com/studio/install.html)
-
-
