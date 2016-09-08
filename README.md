@@ -1,29 +1,143 @@
+# Bienvenido a este repositorio! 
+[English Version](https://github.com/David-Hackro/ExamplesAndroid/blob/master/README.md)
 
-# Bienvenido a este repositorio!
+Bienvenido a este repositorio,donde encontraras ejemplos utilizando [Android](https://www.android.com/intl/es-419_mx/)
 
-En este repositorio podrás encontrar ejemplos claros,sencillos y comentados de utilidades a la hora de desarrollar en Android.
+> minSdkVersion 19
+ 
 
-Están realizados en su mayoría en una API 19 [KitKat] y otros en la API 21[Lollipop]
-![](http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/styles/gallery_wide/public/Array/android-l-vs-android-kitkat.jpg?itok=TftaiwJi)
+Listado de ejemplos
 
-Esta es la lista de los ejemplos que contiene actualmente este repositorio:
-* **Volley**---->[Request Post con uso de parametros]
-* **Splash Time** 
-* **SQLITE**----> [CRUD]
-* **Picasso**---->Imagenes mediante URL
-* **Facebook**---->[Autenticacion y acceso a usuario,email,genero e imagen de perfil]
-*  **Envio Mails**---->[Envio de correos desde android mediante un PHP]
-* **RecyclerView & CardView**---->[Implementacion de RecyclerView con CardView]
+### INDICE
+Topic:
+
+* [Asynctask] - HTML enhanced for web apps!
+* [CardIO] - awesome web-based text editor
+* [REALM] - Markdown parser done right. Fast and easy to extend.
+  * [REALM] - Markdown parser done right. Fast and easy to extend.
+  * [REALM] - Markdown parser done right. Fast and easy to extend.
+  * [REALM] - Markdown parser done right. Fast and easy to extend.
+  * [REALM] - Markdown parser done right. Fast and easy to extend. 
+* [Envio Mails] - great UI boilerplate for modern web apps
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+* [Facebook] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [Google Maps] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [LectorQRLXING] - duh
+* [MVP Examples] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [NotificationPushWithoutGCM] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [PDF] - duh
+* [Picasso] - duh
+* [RealmRetrofit] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [RecyclerViewAndCardView] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+* [Retrofit2] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [Rijndael] - duh
+* [SQLITE] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [SaveImageSD] - duh
+* [SplashTime] - duh
+* [Volley] - duh
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+    * [REALM] - Markdown parser done right. Fast and easy to extend.
+
+* [pdfjet] - duh
 
 
-Algunos de los ejemplos,es necesario que tengas conocimiento mínimo de como se realizan.
-
-Por ejemplo en el caso de Facebook,deberán dar de alta la app en [Facebook Developers](https://developers.facebook.com/) y si no lo hacen,aunque el código este bien,no funcionara.
 
 
-Todos los ejemplos estar verificados y funcionan sin problema alguno.
+  - Type some Markdown on the left
+  - See HTML in the right
+  - Magic
 
-### Sigueme en Twitter **[@DavidHackro](https://twitter.com/DavidHackro)**
-Comparte tu conocimiento.
+You can also:
+  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
+  - Drag and drop files into Dillinger
+  - Export documents as Markdown, HTML and PDF
 
-Saludos!!
+Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+
+This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+
+### Tech
+
+Dillinger uses a number of open source projects to work properly:
+
+* [AngularJS] - HTML enhanced for web apps!
+* [Ace Editor] - awesome web-based text editor
+* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Gulp] - the streaming build system
+* [keymaster.js] - awesome keyboard handler lib by [@thomasfuchs]
+* [jQuery] - duh
+
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
+
+### Entorno de Desarrollo
+
+
+> [Android Studio](https://developer.android.com/studio/index.html?hl=es-419)       
+> [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes)    
+> [Librerias extra (GNU/LINUX)](https://developer.android.com/studio/install.html)
+
+
