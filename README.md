@@ -11,87 +11,9 @@ Listado de ejemplos
 ### INDICE
 Topic:
 
-* [[Asynctask] - HTML enhanced for web apps!](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-* [[CardIO] - awesome web-based text editor](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-* [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-  * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-  * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-  * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-  * [[REALM] - Markdown parser done right. Fast and easy to extend. ](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-* [[Envio Mails] - great UI boilerplate for modern web apps](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
+* [MVP Examples] - duh]
     * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
     * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-* [[Facebook] - duh](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[Google Maps] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[LectorQRLXING] - duh
-* [[MVP Examples] - duh](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[NotificationPushWithoutGCM] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[PDF] - duh
-* [[Picasso] - duh
-* [[RealmRetrofit] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[RecyclerViewAndCardView] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-* [[Retrofit2] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[Rijndael] - duh
-* [[SQLITE] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[SaveImageSD] - duh
-* [[SplashTime] - duh
-* [[Volley] - duh
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-    * [[REALM] - Markdown parser done right. Fast and easy to extend.](https://github.com/David-Hackro/ExamplesAndroid/tree/master/Asynctask)
-
-* [[pdfjet] - duh
-
 
 
 
